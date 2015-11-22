@@ -1,6 +1,14 @@
 body {
     font-family: 'Roboto Slab', serif;
-    font-size: 2em;
+    font-size: 2rem;
     text-align: center;
-    margin-top: 10em;
+    margin-top: 10rem;
+}
+
+#header {
+    background-color: #a0a0a0;
+    height: 4rem;
+    width: 100%;
+    top: 1rem;
+    position: fixed;
 }
