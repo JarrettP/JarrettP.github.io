@@ -5,23 +5,16 @@ body {
     margin-top: 10rem;
 }
 
-#page_menu {
-    width: 90%;
-    position: relative;
-    left: 5%;
-    font-family: 'Roboto Slab light';
+.Menu-Link:link {
+    color: black;
+    text-decoration: none;
 }
 
-#PM-Container {
-    margin: 0 auto;
-    border-spacing: 2.5em 0;
+.Menu-Link:visited {
+    color: black;
+    text-decoration: none;
 }
 
-.PM-Link {
-    transition: ease 0.2s;
-}
-
-.PM-Link:hover {
-    text-shadow: 0px 5px 10px #909090;
-    transition: ease 0.2s;
+.Menu-Link:hover {
+    text-decoration: underline;
 }
