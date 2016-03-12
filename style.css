@@ -3,6 +3,15 @@ body {
     font-size: 2rem;
     text-align: center;
     margin-top: 10rem;
+    background-image: url("assets/background.jpg");
+    background-position: left top;
+    background-size: cover;
+}
+
+#canvas {
+    background-color: white;
+    margin: auto;
+    width: 70%;
 }
 
 .Menu-Link:link {
