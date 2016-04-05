@@ -54,6 +54,13 @@ ul {
     color: white;
 }
 
+#email {
+    font-family: 'Roboto Slab';
+    font-size: 4rem;
+    text-decoration: none;
+    color: white;
+}
+
 .container {
     position: absolute;
     background-color: white;
