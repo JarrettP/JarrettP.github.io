@@ -1,7 +1,4 @@
 body {
-    background-position: left top;
-    background-size: 100%;
-    background-image: url(assets/forest.jpg);
     margin: 0px;
     padding: 0px;
 }
@@ -47,18 +44,26 @@ ul {
 }
 
 #title {
-    font-family: 'Rochester';
-    font-size: 15rem;
+    font-family: 'Roboto Slab Thin';
+    font-size: 12rem;
     text-align: center;
     vertical-align: middle;
-    color: white;
+    color: black;
+}
+
+#email_container {
+    text-align: center;
 }
 
 #email {
     font-family: 'Roboto Slab';
     font-size: 4rem;
     text-decoration: none;
-    color: white;
+    color: black;
+}
+
+#email:hover {
+    text-decoration: underline;
 }
 
 .container {
