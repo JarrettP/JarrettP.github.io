@@ -10,8 +10,8 @@ body {
     top: 0px;
     left: 0px;
     width: 100%;
-    height: 4rem;
-    box-shadow: 0rem 0.2rem 1rem rgba(0, 0, 0, 0.3);
+    height: 4em;
+    box-shadow: 0em 0.2em 1em rgba(0, 0, 0, 0.3);
 }
 
 ul {
@@ -25,13 +25,13 @@ ul {
 
 .Menu-Link {
     font-family: 'Roboto Light';
-    font-size: 1.5rem;
+    font-size: 1.5em;
     color: black;
     text-decoration: none;
     transition: 0.2s;
     transition-timing-function: ease-in-out;
-    padding: 1.5rem;
-    padding-top: 4rem;
+    padding: 1.5em;
+    padding-top: 4em;
 }
 
 .Menu-Link:visited {
@@ -45,7 +45,7 @@ ul {
 
 #title {
     font-family: 'Roboto Slab Thin';
-    font-size: 12rem;
+    font-size: 12em;
     text-align: center;
     vertical-align: middle;
     color: black;
@@ -57,7 +57,7 @@ ul {
 
 #email {
     font-family: 'Roboto Slab';
-    font-size: 4rem;
+    font-size: 4em;
     text-decoration: none;
     color: black;
 }
@@ -70,7 +70,7 @@ ul {
     position: absolute;
     background-color: white;
     width: 100%;
-    height: 42rem;
+    height: 42em;
     bottom: 0px;
     left: 0px;
 }
