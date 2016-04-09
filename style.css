@@ -45,7 +45,7 @@ ul {
 
 #title {
     font-family: 'Roboto Slab Thin';
-    font-size: 12em;
+    font-size: 12vw;
     text-align: center;
     vertical-align: middle;
     color: black;
@@ -57,7 +57,7 @@ ul {
 
 #email {
     font-family: 'Roboto Slab';
-    font-size: 4em;
+    font-size: 4vw;
     text-decoration: none;
     color: black;
 }
