@@ -24,7 +24,7 @@ ul {
 }
 
 .Menu-Link {
-    font-family: 'Roboto Light';
+    font-family: sans-serif;
     font-size: 1.5em;
     color: black;
     text-decoration: none;
@@ -44,7 +44,7 @@ ul {
 }
 
 #title {
-    font-family: 'Roboto Slab';
+    font-family: sans-serif;
     font-weight: 100;
     font-size: 12vw;
     text-align: center;
@@ -58,7 +58,7 @@ ul {
 
 #email {
     position: relative;
-    font-family: 'Roboto Slab';
+    font-family: sans-serif;
     font-weight: 300;
     font-size: 4vw;
     text-decoration: none;
